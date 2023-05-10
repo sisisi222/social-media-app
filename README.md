@@ -19,7 +19,7 @@ This is a simple social media application built with Spring Boot.
 
 1. Clone the repository: 
     ```
-    git clone https://github.com/sisisi222/socialmediaapp.git
+    git clone https://github.com/sisisi222/social-media-app.git
     ```
 2. Navigate into the directory: 
     ```
